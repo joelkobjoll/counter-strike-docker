@@ -9,7 +9,7 @@ STEAM_PASSWORD?=""
 DOCKER_NO_CACHE?="false"
 
 # Publish options
-DOCKER_PUBLISH_NAME?="hlds/server"
+DOCKER_PUBLISH_NAME?="joelkobjoll/hlds"
 DOCKER_PUBLISH_TAG?=$(IMAGE_TAG)
 
 # Test tools
